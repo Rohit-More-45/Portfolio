@@ -1,1 +1,1 @@
-Initialize project with Create React App
+Add Navbar component
