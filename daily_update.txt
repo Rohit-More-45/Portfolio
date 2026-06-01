@@ -1,1 +1,1 @@
-Add Navbar component
+Add Hero component
