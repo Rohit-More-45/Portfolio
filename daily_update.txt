@@ -1,1 +1,1 @@
-Add Hero component
+Add About component
