@@ -1,1 +1,1 @@
-Add Resume component
+Add Projects component
