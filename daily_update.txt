@@ -1,1 +1,1 @@
-Add Services component
+Add Contact component
