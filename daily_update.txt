@@ -1,1 +1,1 @@
-Add Footer component
+Integrate all components into App
