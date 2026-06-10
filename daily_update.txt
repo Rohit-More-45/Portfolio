@@ -1,1 +1,1 @@
-Integrate all components into App
+Add global styles and typography
