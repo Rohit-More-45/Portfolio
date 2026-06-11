@@ -1,1 +1,1 @@
-Add global styles and typography
+Implement dark theme with glassmorphism
