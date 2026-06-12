@@ -1,1 +1,1 @@
-Implement dark theme with glassmorphism
+Add responsive design breakpoints
