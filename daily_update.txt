@@ -1,1 +1,1 @@
-Add responsive design breakpoints
+Add animations and transitions
