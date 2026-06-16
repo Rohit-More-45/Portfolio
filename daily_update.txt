@@ -1,1 +1,1 @@
-Add scroll spy for active nav
+Add form validation to Contact
